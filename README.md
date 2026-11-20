@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Ariba%20Memon&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full%20Stack%20Developer%20%7C%20AI%20Agents%20%26%20Chatbots&descAlignY=58&descSize=18&animation=fadeIn" alt="Ariba Memon banner" />
+  <img src="./banner.svg" alt="Ariba Memon - Senior Full Stack Developer" width="100%" />
 </p>
 
 <!-- Typing animation -->
@@ -16,10 +16,11 @@
   <a href="https://www.linkedin.com/in/thearibamemon"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:codewitharibamemon@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.upwork.com/freelancers/~01ad73c044740f3fe5"><img src="https://img.shields.io/badge/Upwork-Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://github.com/Aribamemon"><img src="https://img.shields.io/github/followers/Aribamemon?label=Follow&style=for-the-badge&logo=github&color=181717" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thearibamemon&label=Profile%20views&color=2563eb&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Aribamemon&label=Profile%20views&color=2563eb&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Remote%20Work-22c55e?style=flat" alt="Open to work" />
   <img src="https://img.shields.io/badge/Timezone-UTC%2B5%20%C2%B7%20overlaps%20US%2FUK%2FUAE-64748b?style=flat" alt="Timezone" />
 </p>
@@ -111,16 +112,16 @@ const ariba = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thearibamemon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearibamemon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aribamemon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aribamemon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thearibamemon&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Aribamemon&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thearibamemon&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aribamemon&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
 </p>
 
 ---
@@ -149,5 +150,5 @@ Looking for a **Senior React / Next.js developer**, a **Shopify expert**, or som
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer" alt="Footer" />
+  <img src="./footer.svg" alt="" width="100%" />
 </p>

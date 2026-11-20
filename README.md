@@ -1,8 +1,3 @@
-<!-- Banner (upload banner.svg to this repo too) -->
-<p align="center">
-  <img src="banner.svg" alt="Ariba Memon" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Ariba Memon 👋</h1>
 <h3 align="center">Senior Full Stack Developer · MERN & Next.js · Shopify & WordPress · AI Agents</h3>
 
@@ -151,9 +146,4 @@ Looking for a **Senior Full Stack (MERN / Next.js) developer**, a **Shopify or W
   <a href="https://www.linkedin.com/in/thearibamemon">💼 LinkedIn</a> ·
   <a href="https://www.upwork.com/freelancers/~01ad73c044740f3fe5">🟢 Upwork</a> ·
   <a href="https://twitter.com/aribamemon">🐦 Twitter</a>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="footer.svg" alt="" width="100%" />
 </p>

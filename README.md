@@ -1,12 +1,15 @@
-<!-- Banner -->
+<!-- Banner (upload banner.svg to this repo too) -->
 <p align="center">
-  <img src="./banner.svg" alt="Ariba Memon - Senior Full Stack Developer" width="100%" />
+  <img src="banner.svg" alt="Ariba Memon" width="100%" />
 </p>
+
+<h1 align="center">Hi, I'm Ariba Memon 👋</h1>
+<h3 align="center">Senior Full Stack Developer · React.js & Next.js · AI Agents & Chatbots</h3>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://www.aribamemon.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=React.js+%26+Next.js+Developer;Shopify+Store+Developer;I+build+AI+Agents+%26+Voice+Agents;6%2B+years+%C2%B7+Clients+in+US%2C+UK+%26+Dubai;Open+to+remote+roles+worldwide" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+Developer;React.js+%26+Next.js+Developer;Shopify+Store+Developer;I+build+AI+Agents+%26+Voice+Agents;6%2B+years+%C2%B7+Clients+in+US%2C+UK+%26+Dubai;Open+to+remote+roles+worldwide" alt="Typing SVG" />
   </a>
 </p>
 
@@ -150,5 +153,5 @@ Looking for a **Senior React / Next.js developer**, a **Shopify expert**, or som
 
 <!-- Footer -->
 <p align="center">
-  <img src="./footer.svg" alt="" width="100%" />
+  <img src="footer.svg" alt="" width="100%" />
 </p>

@@ -4,7 +4,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://www.aribamemon.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+Developer;MERN+Stack+%26+Next.js+Developer;MongoDB+%C2%B7+PostgreSQL+%C2%B7+Supabase;Shopify+%26+WordPress+Developer;I+build+AI+Agents+%26+Voice+Agents;6%2B+years+%C2%B7+Clients+in+US%2C+UK+%26+Dubai;Open+to+remote+roles+worldwide" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+Developer;AI+Agents+%C2%B7+NLP+%C2%B7+Chatbots;MERN+Stack+%26+Next.js+Developer;MongoDB+%C2%B7+PostgreSQL+%C2%B7+Supabase;Shopify+%26+WordPress+Developer;I+build+AI+Agents+%26+Voice+Agents;6%2B+years+%C2%B7+Clients+in+US%2C+UK+%26+Dubai;Open+to+remote+roles+worldwide" alt="Typing SVG" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@ const ariba = {
   databases: ["MongoDB", "PostgreSQL", "Supabase", "Firebase"],
   ecommerce: ["Shopify", "Liquid"],
   cms: ["WordPress", "Sanity"],
-  ai: ["AI Agents", "Voice Agents", "Chatbots", "OpenAI", "n8n"],
+  ai: ["AI Agents", "Voice Agents", "Chatbots", "NLP", "OpenAI", "n8n"],
   currentlyAt: ["American Elite Innovation", "Foransy"],
   openTo: "Remote roles worldwide",
 };
@@ -60,7 +60,7 @@ const ariba = {
 | 🛒 | **Shopify stores** | Custom themes, Liquid, app integrations, Next.js to Shopify migrations |
 | 🔧 | **Backend & APIs** | Node.js and Express.js APIs with MongoDB, PostgreSQL and Supabase |
 | 🌐 | **WordPress websites** | Business websites built and customized on WordPress |
-| 🤖 | **AI agents & chatbots** | Chatbots, task automation agents and phone voice agents for businesses |
+| 🤖 | **AI agents & chatbots** | NLP-powered chatbots, task automation agents and phone voice agents for businesses |
 | ⚙️ | **Automation** | n8n and Zapier workflows that remove manual work |
 
 ---
@@ -80,6 +80,7 @@ const ariba = {
 <p align="center">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=spacy&logoColor=white" />
   <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />

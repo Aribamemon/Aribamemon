@@ -4,12 +4,12 @@
 </p>
 
 <h1 align="center">Hi, I'm Ariba Memon 👋</h1>
-<h3 align="center">Senior Full Stack Developer · React.js & Next.js · AI Agents & Chatbots</h3>
+<h3 align="center">Senior Full Stack Developer · MERN & Next.js · Shopify & WordPress · AI Agents</h3>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://www.aribamemon.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+Developer;React.js+%26+Next.js+Developer;Shopify+Store+Developer;I+build+AI+Agents+%26+Voice+Agents;6%2B+years+%C2%B7+Clients+in+US%2C+UK+%26+Dubai;Open+to+remote+roles+worldwide" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+Developer;MERN+Stack+%26+Next.js+Developer;MongoDB+%C2%B7+PostgreSQL+%C2%B7+Supabase;Shopify+%26+WordPress+Developer;I+build+AI+Agents+%26+Voice+Agents;6%2B+years+%C2%B7+Clients+in+US%2C+UK+%26+Dubai;Open+to+remote+roles+worldwide" alt="Typing SVG" />
   </a>
 </p>
 
@@ -39,9 +39,10 @@ const ariba = {
   role: "Senior Full Stack Developer",
   experience: "6+ years",
   frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js", "FastAPI"],
-  databases: ["PostgreSQL", "Supabase", "MongoDB"],
+  backend: ["Node.js", "Express.js", "REST APIs", "FastAPI"],
+  databases: ["MongoDB", "PostgreSQL", "Supabase", "Firebase"],
   ecommerce: ["Shopify", "Liquid"],
+  cms: ["WordPress", "Sanity"],
   ai: ["AI Agents", "Voice Agents", "Chatbots", "OpenAI", "n8n"],
   currentlyAt: ["American Elite Innovation", "Foransy"],
   openTo: "Remote roles worldwide",
@@ -60,9 +61,10 @@ const ariba = {
 
 | | Service | Details |
 | :---: | --- | --- |
-| ⚛️ | **Web apps & dashboards** | React.js and Next.js apps with TypeScript, clean UI and fast load times |
+| ⚛️ | **Web apps & dashboards** | Full stack MERN and Next.js apps with TypeScript, clean UI and fast load times |
 | 🛒 | **Shopify stores** | Custom themes, Liquid, app integrations, Next.js to Shopify migrations |
-| 🔧 | **Backend & APIs** | Node.js, Express.js, PostgreSQL, Supabase auth and storage |
+| 🔧 | **Backend & APIs** | Node.js and Express.js APIs with MongoDB, PostgreSQL and Supabase |
+| 🌐 | **WordPress websites** | Business websites built and customized on WordPress |
 | 🤖 | **AI agents & chatbots** | Chatbots, task automation agents and phone voice agents for businesses |
 | ⚙️ | **Automation** | n8n and Zapier workflows that remove manual work |
 
@@ -138,7 +140,7 @@ const ariba = {
 
 ## 🤝 Let's Work Together
 
-Looking for a **Senior React / Next.js developer**, a **Shopify expert**, or someone to build **AI agents** for your business? I'm open to remote full-time and contract roles.
+Looking for a **Senior Full Stack (MERN / Next.js) developer**, a **Shopify or WordPress expert**, or someone to build **AI agents** for your business? I'm open to remote full-time and contract roles.
 
 <p align="center">
   <a href="mailto:codewitharibamemon@gmail.com"><img src="https://img.shields.io/badge/📧%20Email%20Me-codewitharibamemon@gmail.com-EA4335?style=for-the-badge" /></a>
